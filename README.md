@@ -15,4 +15,4 @@
 Documentations: https://github.com/Thuan48/NiceHotel/tree/main/Documentations
 
 =====================================
-Thank you for víit our website.
+Thank you for visit our website.
