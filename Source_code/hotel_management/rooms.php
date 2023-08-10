@@ -31,7 +31,7 @@ endif;
         </div>
         <table class="table table-bordered table-hover">
             <tr>
-                <th>Room Number	</th>
+                <th>Room Number</th>
                 <th>image</th>
                 <th>Max Occupancy</th>
                 <th>Is Available</th>
@@ -52,7 +52,7 @@ endif;
                         <td><?= $fields[5] ?></td> 
                         <td><?= $fields[6] ?></td> 
                         <td>
-                            <a href="#">View</a>
+                            <a href="detailroom.php?isbn=<?= $fields[0] ?>">View</a>
                         </td>
                     </tr>
                     <?php
